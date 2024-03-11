@@ -1,3 +1,8 @@
 Let see diff command
+<<<<<<< HEAD
 
 In this file
+=======
+lets pull
+pull
+>>>>>>> ec2e3aaab1c97f34489ec51d4b2ec2352f3ff100
